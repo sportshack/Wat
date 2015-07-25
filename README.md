@@ -13,3 +13,4 @@ equalizar a prática física com o equilibrio mental.
 - Mateus Bolsoni de Souza
 - Caio Luders
 
+https://share.knowledgeanyhow.org/#/api/v1/workbench/10.115.70.94/shares/oN4Xn9ABk2SdsBD/wat_team.ipynb
